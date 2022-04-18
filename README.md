@@ -12,7 +12,7 @@ The tools in this repository are designed to analyze the confocal images of zebr
 2.	Do these codes help on your research? Please cite as the follows. Title
 # Figures
 ![image](https://user-images.githubusercontent.com/67047201/163788813-16976ab2-63e8-4f9f-bb14-11a086c4738c.png)
-
+![image](https://user-images.githubusercontent.com/67047201/163789030-7bf701aa-9a78-4f9f-a804-13018da31d7c.png)
 # Reference
 1.	Chen CH, Puliafito A, Cox BD, Primo L, Fang Y, Di Talia S and Poss KD. Multicolor Cell Barcoding Technology for Long-Term Surveillance of Epithelial Regeneration in Zebrafish. Dev Cell. 2016;36:668-80.
 2.	Sato Y, Nakajima S, Shiraga N, Atsumi H, Yoshida S, Koller T, Gerig G and Kikinis R. Three-dimensional multi-scale line filter for segmentation and visualization of curvilinear structures in medical images. Med Image Anal. 1998;2:143-68.
