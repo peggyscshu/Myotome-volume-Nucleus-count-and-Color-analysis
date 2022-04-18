@@ -11,7 +11,7 @@ The tools in this repository are designed to analyze the confocal images of zebr
 1.	Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
 2.	Do these codes help on your research? Please cite as the follows. Title
 # Figures
-
+![image](https://user-images.githubusercontent.com/67047201/163788813-16976ab2-63e8-4f9f-bb14-11a086c4738c.png)
 
 # Reference
 1.	Chen CH, Puliafito A, Cox BD, Primo L, Fang Y, Di Talia S and Poss KD. Multicolor Cell Barcoding Technology for Long-Term Surveillance of Epithelial Regeneration in Zebrafish. Dev Cell. 2016;36:668-80.
