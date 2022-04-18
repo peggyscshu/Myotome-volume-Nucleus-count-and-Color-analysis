@@ -11,7 +11,7 @@ The tools in this repository are designed to analyze the confocal images of zebr
 1.	Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
 2.	Do these codes help on your research? Please cite as the follows. Title
 # Figures
-![image](https://user-images.githubusercontent.com/67047201/163788813-16976ab2-63e8-4f9f-bb14-11a086c4738c.png)
+![image](https://user-images.githubusercontent.com/67047201/163791252-7070a9af-df27-4798-9ed6-13a91de4a93f.png)
 ![image](https://user-images.githubusercontent.com/67047201/163789030-7bf701aa-9a78-4f9f-a804-13018da31d7c.png)
 ![image](https://user-images.githubusercontent.com/67047201/163789182-418c873b-6bbc-4ccc-91c9-ace65335ecd6.png)
 ![image](https://user-images.githubusercontent.com/67047201/163791046-39e74f21-4dbe-40b1-aa8a-6e5ea1cf8e5f.png)
