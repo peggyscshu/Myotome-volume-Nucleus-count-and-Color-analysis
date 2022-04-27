@@ -13,7 +13,7 @@
 2.	Do these codes help on your research? Please cite as the follows. Title
 # Figures
 ![image](https://user-images.githubusercontent.com/67047201/165477349-f087234a-4ba9-4bf5-b7c3-48acf799e8eb.png)
-![image](https://user-images.githubusercontent.com/67047201/165476920-b830ed42-e970-435b-b77a-089abe888177.png)
+![image](https://user-images.githubusercontent.com/67047201/165477580-8a5c4426-296a-4475-9d91-0ca2eaec8804.png)
 ![image](https://user-images.githubusercontent.com/67047201/165477099-f928688b-a710-468b-80aa-a3bc7f0d3b68.png)
 # Reference
 1.	Chen CH, Puliafito A, Cox BD, Primo L, Fang Y, Di Talia S and Poss KD. Multicolor Cell Barcoding Technology for Long-Term Surveillance of Epithelial Regeneration in Zebrafish. Dev Cell. 2016;36:668-80.
