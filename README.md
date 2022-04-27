@@ -17,6 +17,7 @@
 ![image](https://user-images.githubusercontent.com/67047201/165477708-8f8b8ed7-d4d9-4c06-8955-06e543c34b17.png)
 ![image](https://user-images.githubusercontent.com/67047201/165477862-97f9b8b7-e66e-4eb0-a95d-3bc98e9f064d.png)
 ![image](https://user-images.githubusercontent.com/67047201/165478053-af070f70-2fe2-44f6-872c-152a9ccc0b34.png)
+![image](https://user-images.githubusercontent.com/67047201/165478194-b4f32c9e-85ba-4eac-820f-2608de02b050.png)
 # Reference
 1.	Chen CH, Puliafito A, Cox BD, Primo L, Fang Y, Di Talia S and Poss KD. Multicolor Cell Barcoding Technology for Long-Term Surveillance of Epithelial Regeneration in Zebrafish. Dev Cell. 2016;36:668-80.
 2.	Sato Y, Nakajima S, Shiraga N, Atsumi H, Yoshida S, Koller T, Gerig G and Kikinis R. Three-dimensional multi-scale line filter for segmentation and visualization of curvilinear structures in medical images. Med Image Anal. 1998;2:143-68.
