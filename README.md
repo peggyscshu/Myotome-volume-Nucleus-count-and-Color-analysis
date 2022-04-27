@@ -12,7 +12,7 @@
 1.	Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
 2.	Do these codes help on your research? Please cite as the follows. Title
 # Figures
-![image](https://user-images.githubusercontent.com/67047201/165476503-529c1233-6385-43b7-aa3a-be6519a3aca6.png)
+![image](https://user-images.githubusercontent.com/67047201/165477349-f087234a-4ba9-4bf5-b7c3-48acf799e8eb.png)
 ![image](https://user-images.githubusercontent.com/67047201/165476920-b830ed42-e970-435b-b77a-089abe888177.png)
 ![image](https://user-images.githubusercontent.com/67047201/165477099-f928688b-a710-468b-80aa-a3bc7f0d3b68.png)
 # Reference
