@@ -13,6 +13,7 @@
 2.	Do these codes help on your research? Please cite as the follows. Title
 # Figures
 ![image](https://user-images.githubusercontent.com/67047201/165476503-529c1233-6385-43b7-aa3a-be6519a3aca6.png)
+![image](https://user-images.githubusercontent.com/67047201/165476920-b830ed42-e970-435b-b77a-089abe888177.png)
 # Reference
 1.	Chen CH, Puliafito A, Cox BD, Primo L, Fang Y, Di Talia S and Poss KD. Multicolor Cell Barcoding Technology for Long-Term Surveillance of Epithelial Regeneration in Zebrafish. Dev Cell. 2016;36:668-80.
 2.	Sato Y, Nakajima S, Shiraga N, Atsumi H, Yoshida S, Koller T, Gerig G and Kikinis R. Three-dimensional multi-scale line filter for segmentation and visualization of curvilinear structures in medical images. Med Image Anal. 1998;2:143-68.
